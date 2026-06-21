@@ -72,13 +72,26 @@ Proyek ini melakukan clustering wilayah berdasarkan indikator ketepatan sasaran 
 ## Output
 
 ### Gambar
-| File | Deskripsi |
-|---|---|
-| `fig1_elbow_silhouette.png` | Elbow method & Silhouette score untuk penentuan K optimal |
-| `fig2_perbandingan_algoritma.png` | Perbandingan metrik K-Means, HAC, DBSCAN |
-| `fig3_pca_clusters.png` | Visualisasi cluster pada ruang PCA 2D |
-| `fig4_profil_cluster.png` | Profil karakteristik tiap cluster (z-score) |
-| `fig5_rasio_vs_p0.png` | Scatter plot rasio ketepatan vs tingkat kemiskinan |
+
+**1. Penentuan K Optimal (Elbow + Silhouette)**
+
+![fig1](fig1_elbow_silhouette.png)
+
+**2. Perbandingan Algoritma Clustering**
+
+![fig2](fig2_perbandingan_algoritma.png)
+
+**3. Visualisasi Cluster PCA 2D**
+
+![fig3](fig3_pca_clusters.png)
+
+**4. Profil Karakteristik Cluster**
+
+![fig4](fig4_profil_cluster.png)
+
+**5. Rasio Ketepatan vs Tingkat Kemiskinan**
+
+![fig5](fig5_rasio_vs_p0.png)
 
 ### CSV
 | File | Deskripsi |
