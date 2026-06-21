@@ -1,0 +1,52 @@
+region,p0_persen,pct_total_penerima,rasio_ketepatan_sasaran,diversity_index,cluster,cluster_label,dbscan_anomali
+Banjarnegara,13.28,51.28,3.86144578313253,2,1,Over-coverage (indikasi kebocoran/salah sasaran),False
+Banyumas,11.15,68.45,6.139013452914798,2,1,Over-coverage (indikasi kebocoran/salah sasaran),True
+Batang,7.79,32.75,4.2041078305519894,2,3,Over-coverage (indikasi kebocoran/salah sasaran),False
+Blora,10.58,39.85,3.7665406427221173,2,1,Over-coverage (indikasi kebocoran/salah sasaran),False
+Boyolali,8.71,31.78,3.6486796785304247,2,3,Over-coverage (indikasi kebocoran/salah sasaran),False
+Brebes,14.15,56.86,4.018374558303886,2,1,Over-coverage (indikasi kebocoran/salah sasaran),False
+Cilacap,9.41,51.400000000000006,5.462274176408077,2,1,Over-coverage (indikasi kebocoran/salah sasaran),False
+Demak,10.87,53.69,4.939282428702852,2,1,Over-coverage (indikasi kebocoran/salah sasaran),False
+Empat Lawang,10.48,19.7,1.879770992366412,1,2,Tepat Sasaran - Kemiskinan Sedang/Tinggi,False
+Grobogan,10.63,45.81,4.309501411100658,2,1,Over-coverage (indikasi kebocoran/salah sasaran),False
+Jepara,5.79,38.95,6.727115716753023,2,3,Over-coverage (indikasi kebocoran/salah sasaran),False
+Karanganyar,8.48,29.97,3.534198113207547,2,3,Over-coverage (indikasi kebocoran/salah sasaran),False
+Kebumen,13.58,52.79,3.8873343151693667,2,1,Over-coverage (indikasi kebocoran/salah sasaran),False
+Kendal,8.4,36.78,4.378571428571428,2,3,Over-coverage (indikasi kebocoran/salah sasaran),False
+Kepulauan Seribu,12.37,25.167013067783465,2.034520053984112,2,1,Over-coverage (indikasi kebocoran/salah sasaran),False
+Klaten,11.0,36.17,3.2881818181818185,2,1,Over-coverage (indikasi kebocoran/salah sasaran),False
+Kota Jakarta Barat,3.91,4.838074675569342,1.2373592520637702,2,0,Over-coverage (indikasi kebocoran/salah sasaran),False
+Kota Jakarta Pusat,4.7,12.907261356988894,2.7462258206359347,2,0,Over-coverage (indikasi kebocoran/salah sasaran),False
+Kota Jakarta Selatan,3.23,7.145142128815854,2.2121183061349394,2,0,Over-coverage (indikasi kebocoran/salah sasaran),False
+Kota Jakarta Timur,3.94,10.113334095777365,2.566836064918113,2,0,Over-coverage (indikasi kebocoran/salah sasaran),False
+Kota Jakarta Utara,6.33,12.534248063029617,1.9801339752021512,2,0,Over-coverage (indikasi kebocoran/salah sasaran),True
+Kota Pagar Alam,7.7,15.69,2.0376623376623377,1,2,Tepat Sasaran - Kemiskinan Sedang/Tinggi,False
+Kota Palembang,9.04,15.13,1.6736725663716816,1,2,Tepat Sasaran - Kemiskinan Sedang/Tinggi,False
+Kota Prabumulih,9.75,11.82,1.2123076923076923,1,2,Tepat Sasaran - Kemiskinan Sedang/Tinggi,False
+Kota Salatiga,4.2,21.560000000000002,5.133333333333334,2,3,Over-coverage (indikasi kebocoran/salah sasaran),True
+Kota Surakarta,7.69,37.16,4.83224967490247,2,3,Over-coverage (indikasi kebocoran/salah sasaran),False
+Kudus,6.59,26.83,4.071320182094082,2,3,Over-coverage (indikasi kebocoran/salah sasaran),False
+Lahat,13.69,19.54,1.4273192111029949,1,2,Tepat Sasaran - Kemiskinan Sedang/Tinggi,False
+Magelang,9.9,38.629999999999995,3.9020202020202013,2,1,Over-coverage (indikasi kebocoran/salah sasaran),False
+Muara Enim,9.45,23.52,2.488888888888889,1,2,Tepat Sasaran - Kemiskinan Sedang/Tinggi,False
+Musi Banyuasin,9.97,13.07,1.3109327983951855,1,2,Tepat Sasaran - Kemiskinan Sedang/Tinggi,False
+Musi Rawas,12.67,17.54,1.3843725335438042,1,2,Tepat Sasaran - Kemiskinan Sedang/Tinggi,False
+Musi Rawas Utara,15.25,6.72,0.440655737704918,1,2,Tepat Sasaran - Kemiskinan Sedang/Tinggi,True
+Ogan Ilir,11.69,34.67,2.9657827202737383,1,2,Tepat Sasaran - Kemiskinan Sedang/Tinggi,True
+Ogan Komering Ilir,11.84,11.74,0.9915540540540541,1,2,Tepat Sasaran - Kemiskinan Sedang/Tinggi,False
+Ogan Komering Ulu,10.08,16.35,1.6220238095238098,1,2,Tepat Sasaran - Kemiskinan Sedang/Tinggi,False
+Ogan Komering Ulu Selatan,9.17,25.75,2.808069792802617,1,2,Tepat Sasaran - Kemiskinan Sedang/Tinggi,False
+Ogan Komering Ulu Timur,8.86,17.4,1.9638826185101579,1,2,Tepat Sasaran - Kemiskinan Sedang/Tinggi,False
+Pati,8.24,35.83,4.348300970873786,2,3,Over-coverage (indikasi kebocoran/salah sasaran),False
+Pekalongan,8.05,43.59,5.414906832298136,2,3,Over-coverage (indikasi kebocoran/salah sasaran),False
+Pemalang,13.32,58.790000000000006,4.413663663663664,2,1,Over-coverage (indikasi kebocoran/salah sasaran),False
+Purbalingga,12.55,71.0,5.657370517928286,2,1,Over-coverage (indikasi kebocoran/salah sasaran),True
+Purworejo,10.06,38.019999999999996,3.7793240556660033,2,1,Over-coverage (indikasi kebocoran/salah sasaran),False
+Rembang,13.01,49.620000000000005,3.8139892390468875,2,1,Over-coverage (indikasi kebocoran/salah sasaran),False
+Semarang,6.3,36.959999999999994,5.866666666666666,2,3,Over-coverage (indikasi kebocoran/salah sasaran),False
+Sragen,11.22,30.160000000000004,2.688057040998218,2,1,Over-coverage (indikasi kebocoran/salah sasaran),False
+Sukoharjo,6.83,29.51,4.320644216691069,2,3,Over-coverage (indikasi kebocoran/salah sasaran),False
+Tegal,6.16,33.55,5.446428571428571,2,3,Over-coverage (indikasi kebocoran/salah sasaran),False
+Temanggung,7.78,57.019999999999996,7.3290488431876595,2,3,Over-coverage (indikasi kebocoran/salah sasaran),True
+Wonogiri,9.59,47.97,5.002085505735141,2,1,Over-coverage (indikasi kebocoran/salah sasaran),False
+Wonosobo,13.34,48.85,3.66191904047976,2,1,Over-coverage (indikasi kebocoran/salah sasaran),False
