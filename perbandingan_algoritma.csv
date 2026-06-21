@@ -1,0 +1,4 @@
+algoritma,n_cluster,n_outlier,silhouette,dbi,calinski_harabasz
+K-Means,4,0,0.4604,0.7686,54.8
+HAC (Ward),4,0,0.437,0.7814,50.99
+DBSCAN,4,7,0.3731,2.6414,18.99
